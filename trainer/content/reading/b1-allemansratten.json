@@ -1,0 +1,23 @@
+{
+  "id": "b1-allemansratten",
+  "level": "B1",
+  "topic": "Sverigefakta · natur",
+  "title": "Allemansrätten – frihet med ansvar",
+  "source": "Originaltext, faktagranskad mot Naturvårdsverkets information om allemansrätten",
+  "summary": "Allemansrätten ger alla rätt att vistas i naturen, även på mark som någon annan äger. Man får gå, cykla, plocka bär och tälta en natt eller två, men man måste visa hänsyn till människor, djur och natur. Grundregeln är: inte störa – inte förstöra.",
+  "text": "I Sverige har alla människor rätt att röra sig fritt i naturen. Den rätten kallas allemansrätten. Den gäller både svenska medborgare och turister, och den gäller även på mark som ägs av någon annan, till exempel en bonde eller ett skogsbolag.\n\nTack vare allemansrätten får du promenera, cykla och åka skidor i skog och mark. Du får också plocka bär, svamp och blommor, så länge växterna inte är fridlysta. Många svenskar tycker att det är en självklar del av sommaren och hösten att plocka blåbär eller kantareller.\n\nDu får också sätta upp ett tält och sova ute en natt eller två, men inte för nära ett hus. Om du vill stanna längre, eller om ni är många, bör du fråga markägaren. Du får inte heller gå över en tomt eller över åkrar där det växer något.\n\nAllemansrätten är alltså ingen rätt att göra vad man vill. Den bygger på ansvar och hänsyn. Naturvårdsverket sammanfattar det med orden ”inte störa – inte förstöra”. Det betyder bland annat att du ska ta med dig ditt skräp, inte skada träd och inte störa djur som har ungar. Att elda är ofta tillåtet, men aldrig när det är eldningsförbud, och man ska vara mycket försiktig när det är torrt.\n\nAllemansrätten finns i liknande former i Norge och Finland, men den svenska versionen är ovanligt generös. För många nya svenskar blir den ett sätt att lära känna landet – och för många som bott här länge är den en viktig del av den svenska identiteten.",
+  "glossary": [
+    { "sv": "markägare", "en": "landowner" },
+    { "sv": "fridlyst", "en": "protected (species)" },
+    { "sv": "hänsyn", "en": "consideration" },
+    { "sv": "eldningsförbud", "en": "fire ban" }
+  ],
+  "questions": [
+    { "type": "mc", "q": "Vem gäller allemansrätten för?", "options": ["Bara svenska medborgare", "Alla som vistas i Sverige", "Bara markägare", "Bara personer som bor på landet"], "answer": 1, "explanation": "Texten säger att den gäller både svenska medborgare och turister, alltså alla." },
+    { "type": "mc", "q": "Vad bör du göra om du vill tälta flera nätter på samma plats?", "options": ["Ingenting, det är alltid tillåtet", "Fråga markägaren", "Kontakta polisen", "Betala en avgift"], "answer": 1, "explanation": "Om du vill stanna längre än en natt eller två bör du fråga markägaren." },
+    { "type": "mc", "q": "Vad betyder ”inte störa – inte förstöra”?", "options": ["Att man inte får vara i skogen på natten", "Att man ska visa hänsyn till människor, djur och natur", "Att man inte får plocka bär", "Att man måste vara tyst i naturen"], "answer": 1, "explanation": "Uttrycket sammanfattar att allemansrätten bygger på ansvar och hänsyn." },
+    { "type": "tf", "q": "Man får alltid göra upp eld i naturen.", "answer": false, "explanation": "Det är aldrig tillåtet när det är eldningsförbud." },
+    { "type": "tf", "q": "Allemansrätten gäller även på mark som ägs av ett företag.", "answer": true, "explanation": "Texten nämner skogsbolag som exempel på markägare." },
+    { "type": "open", "q": "Ge två exempel på saker man INTE får göra enligt allemansrätten.", "modelAnswer": "Man får inte tälta för nära ett hus, gå över någons tomt eller över åkrar med gröda, plocka fridlysta växter, lämna skräp, skada träd, störa djur som har ungar eller elda när det är eldningsförbud.", "keywords": ["tomt", "åker", "fridlyst", "skräp", "skada", "störa", "eldningsförbud", "nära ett hus"] }
+  ]
+}

@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Svenka</title>
+  <meta name="description" content="Svenka: en personlig svensktränare och spelet Kung Bulle.">
+  <link rel="icon" href="trainer/icons/icon.svg" type="image/svg+xml">
+  <style>
+    :root { --bg: #f7f5f0; --card: #fff; --ink: #1d1f22; --muted: #5d636b; --blue: #005293; --gold: #fecb00; --border: #dcd7cc; }
+    @media (prefers-color-scheme: dark) { :root { --bg: #15171a; --card: #1e2125; --ink: #e9e7e2; --muted: #9aa1a9; --blue: #5aa7e6; --border: #353a40; } }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: var(--bg); color: var(--ink); font: 17px/1.55 system-ui, -apple-system, "Segoe UI", sans-serif; }
+    main { max-width: 720px; margin: 0 auto; padding: 48px 16px; }
+    h1 { font: 700 2.4rem Georgia, serif; margin: 0 0 4px; color: var(--blue); }
+    p.lead { color: var(--muted); margin: 0 0 32px; }
+    .grid { display: grid; gap: 16px; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); }
+    a.card { display: block; text-decoration: none; color: inherit; background: var(--card); border: 2px solid var(--border); border-radius: 16px; padding: 20px; }
+    a.card:hover { border-color: var(--blue); }
+    .emoji { font-size: 2.4rem; }
+    h2 { margin: 8px 0 4px; }
+    .card p { margin: 0; color: var(--muted); }
+    footer { margin-top: 40px; font-size: .85rem; color: var(--muted); }
+    footer a { color: inherit; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Svenka</h1>
+    <p class="lead">Svenska på riktigt – för prov, medborgarskap och vardag.</p>
+    <div class="grid">
+      <a class="card" href="trainer/">
+        <div class="emoji">📚</div>
+        <h2>Svensktränaren</h2>
+        <p>Nivåtest, läsförståelse, hörförståelse, skrivande med AI-feedback, ordförråd och Sverigekunskap inför medborgarskapsprovet.</p>
+      </a>
+      <a class="card" href="kung-bulle/">
+        <div class="emoji">👑</div>
+        <h2>Kung Bulle</h2>
+        <p>Tio frågor, tjugo sekunder. Svara rätt – men ovanligt – och bli Kung Bulle. Hur svensk är du?</p>
+      </a>
+    </div>
+    <footer>Öppen källkod på <a href="https://github.com/Urban-JonathanCohen/svenka">GitHub</a>.</footer>
+  </main>
+</body>
+</html>

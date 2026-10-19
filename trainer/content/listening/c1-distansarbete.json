@@ -1,0 +1,25 @@
+{
+  "id": "c1-distansarbete",
+  "level": "C1",
+  "kind": "dialog",
+  "topic": "Arbetsliv · debatt",
+  "title": "Ska vi tillbaka till kontoret?",
+  "situation": "Du hör en diskussion i ett radioprogram om arbetsliv. Programledaren talar med en HR-chef och en forskare.",
+  "segments": [
+    { "speaker": "Programledare", "text": "Allt fler arbetsgivare vill att de anställda ska vara på kontoret oftare. Lena Berg, du är HR-chef på ett större försäkringsbolag. Varför den här förändringen?" },
+    { "speaker": "Lena", "text": "För oss handlar det framför allt om kultur och lärande. Nyanställda lär sig enormt mycket genom att sitta nära erfarna kollegor och höra hur de löser problem. Det går förlorat när alla sitter hemma." },
+    { "speaker": "Programledare", "text": "Johan Ek, du forskar om arbetsmiljö. Håller du med?" },
+    { "speaker": "Johan", "text": "Delvis. Det stämmer att det informella lärandet blir lidande, särskilt för unga. Men vår forskning visar också att många upplever att de kan koncentrera sig bättre hemma, och att pendlingen är en stor stressfaktor. Om man tvingar tillbaka folk utan att kunna förklara varför, riskerar man att förlora kompetent personal." },
+    { "speaker": "Lena", "text": "Det är en rimlig invändning. Därför har vi inte infört något tvång, utan vi har kommit överens med facket om en modell med tre kontorsdagar i veckan, där teamen själva bestämmer vilka dagar." },
+    { "speaker": "Johan", "text": "Det låter klokt. Det avgörande är egentligen inte antalet dagar, utan att tiden på kontoret används till sådant som faktiskt kräver att man ses – samarbete, handledning och svåra samtal. Att åka in för att sitta i digitala möten hela dagen är meningslöst." },
+    { "speaker": "Programledare", "text": "Så ni är överens om mer än man kunde tro?" },
+    { "speaker": "Lena", "text": "Ja, det skulle jag säga. Ingen av oss vill tillbaka till hur det var förut." }
+  ],
+  "questions": [
+    { "type": "mc", "q": "Vilket är Lenas främsta argument för att vara på kontoret?", "options": ["Det blir billigare för företaget", "Nya medarbetare lär sig av erfarna kollegor", "Kunderna kräver det", "De anställda vill det"], "answer": 1, "explanation": "Hon talar om kultur och lärande, särskilt för nyanställda." },
+    { "type": "mc", "q": "Vilken risk ser Johan med att tvinga tillbaka personalen?", "options": ["Att produktiviteten sjunker", "Att kompetent personal slutar", "Att kontoren blir för små", "Att facket protesterar"], "answer": 1, "explanation": "Han säger att man riskerar att förlora kompetent personal." },
+    { "type": "mc", "q": "Vad menar Johan är ”det avgörande”?", "options": ["Hur många dagar man är på kontoret", "Att tiden på kontoret används till sådant som kräver att man ses", "Att alla har samma kontorsdagar", "Att cheferna är på plats"], "answer": 1, "explanation": "Inte antalet dagar, utan vad tiden används till: samarbete, handledning, svåra samtal." },
+    { "type": "tf", "q": "Lenas företag har infört obligatoriska kontorsdagar utan att förhandla.", "answer": false, "explanation": "De har kommit överens med facket, och teamen bestämmer dagarna själva." },
+    { "type": "open", "q": "Hur skulle du beskriva tonen i samtalet, och hur utvecklas Lenas och Johans positioner?", "modelAnswer": "Tonen är saklig och konstruktiv. Från början verkar de stå långt ifrån varandra – Lena betonar lärande på kontoret och Johan stress och koncentration hemma – men de visar förståelse för varandras argument och konstaterar att de är mer överens än man kunde tro: en flexibel modell där kontorstiden används meningsfullt.", "keywords": ["saklig", "konstruktiv", "överens", "förståelse", "flexibel", "invändning", "kompromiss"] }
+  ]
+}

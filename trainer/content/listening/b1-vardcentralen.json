@@ -1,0 +1,28 @@
+{
+  "id": "b1-vardcentralen",
+  "level": "B1",
+  "kind": "dialog",
+  "topic": "Vardag · vård",
+  "title": "Ett samtal till vårdcentralen",
+  "situation": "Du hör ett telefonsamtal mellan en patient och en sjuksköterska på en vårdcentral.",
+  "segments": [
+    { "speaker": "Sjuksköterska", "text": "Vårdcentralen Solgården, det är Maria. Vad kan jag hjälpa dig med?" },
+    { "speaker": "Ahmed", "text": "Hej, jag heter Ahmed Karimi. Jag har haft ont i halsen och feber i fyra dagar nu, och det blir inte bättre." },
+    { "speaker": "Sjuksköterska", "text": "Okej. Hur hög feber har du haft?" },
+    { "speaker": "Ahmed", "text": "I morse var det trettioåtta och en halv. Och det gör väldigt ont när jag sväljer." },
+    { "speaker": "Sjuksköterska", "text": "Jag förstår. Har du svårt att andas, eller har du utslag någonstans?" },
+    { "speaker": "Ahmed", "text": "Nej, andas går bra. Inga utslag." },
+    { "speaker": "Sjuksköterska", "text": "Då tycker jag att en läkare ska titta på dig. Jag har en tid i morgon kvart i tio. Passar det?" },
+    { "speaker": "Ahmed", "text": "Nej, tyvärr, då jobbar jag. Finns det något efter lunch?" },
+    { "speaker": "Sjuksköterska", "text": "Ja, klockan två. Kom gärna tio minuter innan och anmäl dig i automaten i entrén. Ta med legitimation." },
+    { "speaker": "Ahmed", "text": "Klockan två passar bra. Tack så mycket!" },
+    { "speaker": "Sjuksköterska", "text": "Varsågod. Drick mycket och vila. Om du får svårt att andas i natt ska du ringa elva sjuttiosju eller, om det är akut, hundratolv." }
+  ],
+  "questions": [
+    { "type": "mc", "q": "Varför ringer Ahmed?", "options": ["Han har ont i magen", "Han har ont i halsen och feber", "Han vill förnya ett recept", "Han har fått utslag"], "answer": 1, "explanation": "Han har haft ont i halsen och feber i fyra dagar." },
+    { "type": "mc", "q": "När ska Ahmed träffa läkaren?", "options": ["I morgon klockan 9.45", "I dag klockan 14", "I morgon klockan 14", "I morgon klockan 10"], "answer": 2, "explanation": "Den första tiden (kvart i tio i morgon) passar inte, så han får klockan två – i morgon." },
+    { "type": "mc", "q": "Vad ska Ahmed göra när han kommer till vårdcentralen?", "options": ["Betala i kassan", "Anmäla sig i automaten i entrén", "Ringa sjuksköterskan", "Vänta utanför"], "answer": 1, "explanation": "Han ska anmäla sig i automaten och ta med legitimation." },
+    { "type": "tf", "q": "Ahmed har svårt att andas.", "answer": false, "explanation": "Han säger att det går bra att andas." },
+    { "type": "open", "q": "Vad ska Ahmed göra om han blir sämre under natten?", "modelAnswer": "Om han får svårt att andas ska han ringa 1177 (Vårdguiden), eller 112 om det är akut.", "keywords": ["1177", "112", "ringa", "akut", "andas"] }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "b2-lokalnyheter",
+  "level": "B2",
+  "kind": "monolog",
+  "topic": "Samhälle · nyheter",
+  "title": "Lokalnyheterna: vattenläcka i centrum",
+  "situation": "Du hör ett lokalt nyhetsinslag på radion.",
+  "segments": [
+    { "speaker": "", "text": "Och så till lokala nyheter. En stor vattenläcka upptäcktes tidigt i morse på Storgatan i centrala Västerby." },
+    { "speaker": "", "text": "Enligt kommunens tekniska förvaltning brast en gammal vattenledning strax efter klockan fem, och vatten forsade ut över gatan." },
+    { "speaker": "", "text": "Omkring tvåhundra hushåll är just nu utan vatten. Kommunen har ställt ut vattentankar vid torget och vid Västerby skola, där de boende kan hämta dricksvatten. Ta med egna dunkar." },
+    { "speaker": "", "text": "Storgatan är avstängd för biltrafik mellan järnvägsstationen och biblioteket, och busslinje tre leds om via Parkvägen. Räkna med förseningar under hela dagen." },
+    { "speaker": "", "text": "Reparationen beräknas vara klar i kväll, men kommunen uppmanar de drabbade att koka vattnet i ett dygn efter att det har kommit tillbaka, som en försiktighetsåtgärd." },
+    { "speaker": "", "text": "Ledningen är från femtiotalet, och enligt kommunen är den en av flera som ska bytas ut under de kommande åren." }
+  ],
+  "questions": [
+    { "type": "mc", "q": "Var kan de boende hämta vatten?", "options": ["Vid järnvägsstationen och biblioteket", "Vid torget och vid skolan", "I mataffären", "Vid kommunhuset"], "answer": 1, "explanation": "Vattentankar har ställts ut vid torget och vid Västerby skola." },
+    { "type": "mc", "q": "Hur påverkas kollektivtrafiken?", "options": ["Alla bussar är inställda", "Busslinje tre går en annan väg", "Tågen är försenade", "Den påverkas inte"], "answer": 1, "explanation": "Linje tre leds om via Parkvägen." },
+    { "type": "mc", "q": "Vad ska de drabbade göra när vattnet kommer tillbaka?", "options": ["Spola kranarna i en timme", "Koka vattnet i ett dygn", "Kontakta kommunen", "Inte dricka vattnet på en vecka"], "answer": 1, "explanation": "Som en försiktighetsåtgärd ska man koka vattnet i ett dygn." },
+    { "type": "tf", "q": "Läckan orsakades av en ny ledning som var felaktigt monterad.", "answer": false, "explanation": "Det var en gammal ledning från 1950-talet." },
+    { "type": "open", "q": "Varför kan liknande läckor hända igen, enligt inslaget?", "modelAnswer": "Ledningen är gammal (från 1950-talet) och det finns flera gamla ledningar i kommunen som behöver bytas ut de kommande åren.", "keywords": ["gammal", "femtiotalet", "1950", "bytas ut", "flera ledningar"] }
+  ]
+}

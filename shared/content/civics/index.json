@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "source": {
+    "title": "Sverige i fokus – Utbildningsmaterial om det svenska samhället (UHR)",
+    "url": "https://www.uhr.se/medborgarskapsprovet/utbildningsmaterial/"
+  },
+  "examFacts": [
+    "Sedan 6 juni 2026 krävs kunskaper i svenska och om det svenska samhället för att bli svensk medborgare.",
+    "Provet i samhällskunskap görs på papper och på svenska, med flervalsfrågor som har fyra svarsalternativ. Nivån motsvarar ungefär årskurs 9.",
+    "Det första provet hölls 15 augusti 2026. Antalet frågor och gränsen för godkänt var inte fastställda i oktober 2026.",
+    "Man kan inte anmäla sig själv – Migrationsverket kallar till provet. Kunskaperna kan i vissa fall visas på andra sätt, till exempel med betyg.",
+    "Provet i svenska språket införs senare."
+  ],
+  "disclaimer": "Frågorna här är skrivna för övning och är inte officiella provfrågor. Kontrollera alltid aktuella regler hos UHR och Migrationsverket.",
+  "files": ["questions.json"],
+  "chapters": [
+    { "id": "kap02", "number": 2, "title": "Landet Sverige", "en": "The country of Sweden" },
+    { "id": "kap03", "number": 3, "title": "Sveriges demokratiska system", "en": "Sweden's democratic system" },
+    { "id": "kap04", "number": 4, "title": "Så här styrs Sverige", "en": "How Sweden is governed" },
+    { "id": "kap05", "number": 5, "title": "Politiska val och partier", "en": "Elections and political parties" },
+    { "id": "kap06", "number": 6, "title": "Lag och rätt", "en": "Law and justice" },
+    { "id": "kap07", "number": 7, "title": "Mediernas roll", "en": "The role of the media" },
+    { "id": "kap08", "number": 8, "title": "Mänskliga rättigheter", "en": "Human rights" },
+    { "id": "kap09", "number": 9, "title": "Arbetsmarknad och privatekonomi", "en": "Labour market and personal finance" },
+    { "id": "kap10", "number": 10, "title": "Välfärdssamhället", "en": "The welfare society" },
+    { "id": "kap11", "number": 11, "title": "Sveriges moderna historia", "en": "Sweden's modern history" },
+    { "id": "kap12", "number": 12, "title": "Sverige och omvärlden", "en": "Sweden and the world" },
+    { "id": "kap13", "number": 13, "title": "En sekulär stat och ett mångreligiöst land", "en": "A secular state and a multi-religious country" },
+    { "id": "kap14", "number": 14, "title": "Traditioner och högtider", "en": "Traditions and holidays" }
+  ]
+}

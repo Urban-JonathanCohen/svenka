@@ -1,0 +1,23 @@
+{
+  "id": "b2-kontantlost",
+  "level": "B2",
+  "topic": "Samhälle · ekonomi",
+  "title": "Det nästan kontantlösa samhället",
+  "source": "Originaltext i nyhetsstil",
+  "summary": "Sverige är ett av världens mest kontantlösa länder, och de flesta betalar med kort eller mobilen. Utvecklingen är smidig för många men skapar problem för grupper som inte kan använda digitala tjänster, och den gör samhället sårbart vid kriser. Därför diskuteras det hur kontanter ska kunna finnas kvar.",
+  "text": "Den som besöker ett svenskt kafé märker det snabbt: på många ställen går det inte längre att betala med sedlar och mynt. Skylten ”Vi hanterar inte kontanter” har blivit en vanlig syn, och i dag görs bara en liten andel av alla köp i butiker med kontanter. I stället betalar svenskarna med kort eller med mobilen, ofta via Swish, en betaltjänst som bankerna lanserade 2012.\n\nFör de flesta är utvecklingen smidig. Betalningar går snabbt, och butikerna slipper hantera och transportera stora mängder kontanter, vilket också har minskat antalet rån. Men alla har inte följt med i förändringen. Äldre personer, människor med vissa funktionsnedsättningar och nyanlända som ännu inte har fått ett svenskt bankkonto eller e-legitimation kan få svårt att klara vardagen. Att betala en parkeringsavgift eller köpa en bussbiljett kan plötsligt kräva en app som man inte har tillgång till.\n\nKritiker pekar dessutom på en annan risk: sårbarheten. Om elnätet slås ut eller om betalsystemen drabbas av en it-attack kan det bli omöjligt att handla mat. Myndigheter rekommenderar därför hushåll att ha en mindre summa kontanter hemma som en del av sin krisberedskap.\n\nFrågan har gått från att handla om bekvämlighet till att handla om demokrati och säkerhet. Flera debattörer menar att samhället har ett ansvar för att ingen ska stängas ute från grundläggande tjänster. Andra hävdar att det är orealistiskt att vrida klockan tillbaka och att resurserna i stället bör läggas på att göra de digitala tjänsterna mer tillgängliga. Klart är att diskussionen om kontanternas framtid knappast är över.",
+  "glossary": [
+    { "sv": "sårbarhet", "en": "vulnerability" },
+    { "sv": "krisberedskap", "en": "emergency preparedness" },
+    { "sv": "e-legitimation", "en": "electronic ID (e.g. BankID)" },
+    { "sv": "vrida klockan tillbaka", "en": "turn back the clock" }
+  ],
+  "questions": [
+    { "type": "mc", "q": "Vilken fördel med färre kontanter nämns i texten?", "options": ["Lägre priser i butikerna", "Färre rån", "Fler arbetstillfällen", "Bättre miljö"], "answer": 1, "explanation": "Butikerna slipper hantera kontanter, ”vilket också har minskat antalet rån”." },
+    { "type": "mc", "q": "Varför kan nyanlända få problem i det kontantlösa samhället?", "options": ["De föredrar kontanter av kulturella skäl", "De saknar ibland bankkonto eller e-legitimation", "De får inte använda Swish", "De bor oftast på landsbygden"], "answer": 1, "explanation": "Texten nämner nyanlända som ännu inte fått svenskt bankkonto eller e-legitimation." },
+    { "type": "mc", "q": "Vad menar texten med att frågan ”har gått från att handla om bekvämlighet till att handla om demokrati och säkerhet”?", "options": ["Att politikerna har tagit över frågan från bankerna", "Att frågan nu gäller vem som kan delta i samhället och hur sårbart samhället är", "Att kontanter har blivit olagliga", "Att Swish har blivit osäkert"], "answer": 1, "explanation": "Fokus har flyttats från smidighet till tillgänglighet för alla (demokrati) och krisberedskap (säkerhet)." },
+    { "type": "tf", "q": "Myndigheter avråder hushåll från att ha kontanter hemma.", "answer": false, "explanation": "Tvärtom – myndigheter rekommenderar en mindre summa kontanter hemma som krisberedskap." },
+    { "type": "tf", "q": "Alla debattörer är överens om att kontanterna bör skyddas.", "answer": false, "explanation": "Andra hävdar att resurserna hellre bör läggas på tillgängliga digitala tjänster." },
+    { "type": "open", "q": "Sammanfatta de två huvudsakliga riskerna med ett kontantlöst samhälle som texten tar upp.", "modelAnswer": "Dels utanförskap: grupper som äldre, personer med funktionsnedsättning och nyanlända kan stängas ute när de inte kan använda digitala betalningar. Dels sårbarhet: vid strömavbrott eller it-attacker kan betalsystemen sluta fungera, så att människor inte kan köpa mat.", "keywords": ["äldre", "funktionsnedsättning", "nyanlända", "sårbar", "it-attack", "elnät", "kris", "utanför"] }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "category": "professional",
+  "cards": [
+    { "id": "ce-atervinning", "theme": "cirkular-ekonomi", "sv": "återvinning", "pos": "substantiv", "article": "en", "forms": "återvinningen", "example": "Återvinning av plast är energikrävande.", "en": "recycling" },
+    { "id": "ce-ateranvandning", "theme": "cirkular-ekonomi", "sv": "återanvändning", "pos": "substantiv", "article": "en", "forms": "återanvändningen", "example": "Återanvändning ger oftast större miljönytta än återvinning.", "en": "reuse" },
+    { "id": "ce-kretslopp", "theme": "cirkular-ekonomi", "sv": "kretslopp", "pos": "substantiv", "article": "ett", "forms": "kretsloppet, kretslopp, kretsloppen", "example": "Målet är att hålla materialen i ett slutet kretslopp.", "en": "(closed) loop, cycle" },
+    { "id": "ce-restprodukt", "theme": "cirkular-ekonomi", "sv": "restprodukt", "pos": "substantiv", "article": "en", "forms": "restprodukten, restprodukter, restprodukterna", "example": "Restprodukter från industrin kan bli råvara i en annan process.", "en": "by-product, residual product" },
+    { "id": "ce-livscykelanalys", "theme": "cirkular-ekonomi", "sv": "livscykelanalys", "pos": "substantiv", "article": "en", "forms": "livscykelanalysen, livscykelanalyser, livscykelanalyserna", "example": "En livscykelanalys visar produktens miljöpåverkan från vagga till grav.", "en": "life cycle assessment (LCA)" },
+    { "id": "ce-resurseffektivitet", "theme": "cirkular-ekonomi", "sv": "resurseffektivitet", "pos": "substantiv", "article": "en", "forms": "resurseffektiviteten", "example": "Ökad resurseffektivitet är ett mål i EU:s handlingsplan.", "en": "resource efficiency" },
+    { "id": "ce-uppcykla", "theme": "cirkular-ekonomi", "sv": "uppcykla", "pos": "verb", "article": null, "forms": "uppcyklar, uppcyklade, uppcyklat", "example": "Hon uppcyklar gamla möbler och säljer dem.", "en": "upcycle" },
+    { "id": "ce-delningsekonomi", "theme": "cirkular-ekonomi", "sv": "delningsekonomi", "pos": "substantiv", "article": "en", "forms": "delningsekonomin", "example": "Bilpooler är ett exempel på delningsekonomi.", "en": "sharing economy" },
+
+    { "id": "um-materialflode", "theme": "urban-metabolism", "sv": "materialflöde", "pos": "substantiv", "article": "ett", "forms": "materialflödet, materialflöden, materialflödena", "example": "Vi kartlade stadens materialflöden under ett år.", "en": "material flow" },
+    { "id": "um-flodesanalys", "theme": "urban-metabolism", "sv": "flödesanalys", "pos": "substantiv", "article": "en", "forms": "flödesanalysen, flödesanalyser, flödesanalyserna", "example": "Flödesanalysen visade stora förluster i byggsektorn.", "en": "flow analysis" },
+    { "id": "um-energiforsorjning", "theme": "urban-metabolism", "sv": "energiförsörjning", "pos": "substantiv", "article": "en", "forms": "energiförsörjningen", "example": "Stadens energiförsörjning bygger till stor del på fjärrvärme.", "en": "energy supply" },
+    { "id": "um-avloppsvatten", "theme": "urban-metabolism", "sv": "avloppsvatten", "pos": "substantiv", "article": "ett", "forms": "avloppsvattnet", "example": "Fosfor kan återvinnas ur avloppsvatten.", "en": "wastewater, sewage" },
+    { "id": "um-fjarrvarme", "theme": "urban-metabolism", "sv": "fjärrvärme", "pos": "substantiv", "article": "en", "forms": "fjärrvärmen", "example": "Spillvärme från industrin leds in i fjärrvärmenätet.", "en": "district heating" },
+    { "id": "um-stadsplanering", "theme": "urban-metabolism", "sv": "stadsplanering", "pos": "substantiv", "article": "en", "forms": "stadsplaneringen", "example": "Hållbar stadsplanering minskar behovet av bil.", "en": "urban planning" },
+    { "id": "um-fortatning", "theme": "urban-metabolism", "sv": "förtätning", "pos": "substantiv", "article": "en", "forms": "förtätningen, förtätningar, förtätningarna", "example": "Förtätning av innerstaden är omdiskuterad.", "en": "densification" },
+    { "id": "um-infrastruktur", "theme": "urban-metabolism", "sv": "infrastruktur", "pos": "substantiv", "article": "en", "forms": "infrastrukturen, infrastrukturer, infrastrukturerna", "example": "Gammal infrastruktur måste bytas ut.", "en": "infrastructure" },
+
+    { "id": "hb-hallbarhet", "theme": "hallbarhet", "sv": "hållbarhet", "pos": "substantiv", "article": "en", "forms": "hållbarheten", "example": "Social hållbarhet är lika viktig som ekologisk.", "en": "sustainability; durability" },
+    { "id": "hb-utslapp", "theme": "hallbarhet", "sv": "utsläpp", "pos": "substantiv", "article": "ett", "forms": "utsläppet, utsläpp, utsläppen", "example": "Transporter står för en stor del av utsläppen.", "en": "emission, discharge" },
+    { "id": "hb-klimatpaverkan", "theme": "hallbarhet", "sv": "klimatpåverkan", "pos": "substantiv", "article": "en", "forms": "klimatpåverkan", "example": "Vi beräknade byggnadens klimatpåverkan.", "en": "climate impact" },
+    { "id": "hb-ekosystemtjanst", "theme": "hallbarhet", "sv": "ekosystemtjänst", "pos": "substantiv", "article": "en", "forms": "ekosystemtjänsten, ekosystemtjänster, ekosystemtjänsterna", "example": "Pollinering är en viktig ekosystemtjänst.", "en": "ecosystem service" },
+    { "id": "hb-biologisk-mangfald", "theme": "hallbarhet", "sv": "biologisk mångfald", "pos": "substantiv", "article": "en", "forms": "den biologiska mångfalden", "example": "Den biologiska mångfalden minskar i hela världen.", "en": "biodiversity" },
+    { "id": "hb-fornybar", "theme": "hallbarhet", "sv": "förnybar", "pos": "adjektiv", "article": null, "forms": "förnybar, förnybart, förnybara", "example": "Vindkraft är en förnybar energikälla.", "en": "renewable" },
+    { "id": "hb-omstallning", "theme": "hallbarhet", "sv": "omställning", "pos": "substantiv", "article": "en", "forms": "omställningen, omställningar, omställningarna", "example": "Omställningen till fossilfri industri kräver mycket el.", "en": "transition, conversion" },
+    { "id": "hb-koldioxidneutral", "theme": "hallbarhet", "sv": "koldioxidneutral", "pos": "adjektiv", "article": null, "forms": "koldioxidneutral, koldioxidneutralt, koldioxidneutrala", "example": "Staden vill bli koldioxidneutral till 2040.", "en": "carbon neutral" },
+
+    { "id": "fo-hypotes", "theme": "forskning", "sv": "hypotes", "pos": "substantiv", "article": "en", "forms": "hypotesen, hypoteser, hypoteserna", "example": "Resultaten stöder vår hypotes.", "en": "hypothesis" },
+    { "id": "fo-metod", "theme": "forskning", "sv": "metod", "pos": "substantiv", "article": "en", "forms": "metoden, metoder, metoderna", "example": "Vi valde en kvalitativ metod.", "en": "method" },
+    { "id": "fo-urval", "theme": "forskning", "sv": "urval", "pos": "substantiv", "article": "ett", "forms": "urvalet, urval, urvalen", "example": "Urvalet bestod av 300 hushåll.", "en": "sample, selection" },
+    { "id": "fo-resultat", "theme": "forskning", "sv": "resultat", "pos": "substantiv", "article": "ett", "forms": "resultatet, resultat, resultaten", "example": "Resultaten presenteras i kapitel fyra.", "en": "result, finding" },
+    { "id": "fo-slutsats", "theme": "forskning", "sv": "slutsats", "pos": "substantiv", "article": "en", "forms": "slutsatsen, slutsatser, slutsatserna", "example": "Vilka slutsatser kan vi dra av studien?", "en": "conclusion" },
+    { "id": "fo-avhandling", "theme": "forskning", "sv": "avhandling", "pos": "substantiv", "article": "en", "forms": "avhandlingen, avhandlingar, avhandlingarna", "example": "Hon disputerade på en avhandling om urban metabolism.", "en": "doctoral thesis, dissertation" },
+    { "id": "fo-belysa", "theme": "forskning", "sv": "belysa", "pos": "verb", "article": null, "forms": "belyser, belyste, belyst", "example": "Studien belyser sambandet mellan boende och hälsa.", "en": "shed light on, illustrate" },
+    { "id": "fo-kalla", "theme": "forskning", "sv": "källa", "pos": "substantiv", "article": "en", "forms": "källan, källor, källorna", "example": "Ange alltid dina källor.", "en": "source; spring (water)" }
+  ]
+}

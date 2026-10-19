@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "files": ["core.json", "themes.json", "professional.json"],
+  "root": {
+    "id": "root",
+    "name": "Ordförråd",
+    "en": "All vocabulary",
+    "children": [
+      {
+        "id": "core", "name": "Kärnspråk", "en": "Core language",
+        "children": [
+          { "id": "adjektiv", "name": "Adjektiv", "en": "Adjectives" },
+          { "id": "prepositioner", "name": "Prepositioner (tid & plats)", "short": "Prepositioner", "en": "Prepositions of time & place" },
+          { "id": "konjunktioner", "name": "Konjunktioner", "en": "Conjunctions" },
+          { "id": "partikelverb", "name": "Partikelverb", "en": "Particle verbs" },
+          { "id": "fraser", "name": "Vanliga fraser", "short": "Fraser", "en": "Common phrases" }
+        ]
+      },
+      {
+        "id": "themes", "name": "Teman", "en": "Themes",
+        "children": [
+          { "id": "kropp", "name": "Kroppen", "en": "The body" },
+          { "id": "skog-natur", "name": "Skog och natur", "short": "Skog & natur", "en": "Forest and nature" },
+          { "id": "friluftsliv", "name": "Friluftsliv och camping", "short": "Friluftsliv", "en": "Outdoor life and camping" },
+          { "id": "kultur", "name": "Kultur och traditioner", "short": "Traditioner", "en": "Culture and traditions" },
+          { "id": "samhalle-arbete", "name": "Samhälle och arbete", "short": "Arbete", "en": "Society and work" },
+          { "id": "sprak", "name": "Språk", "en": "Languages" }
+        ]
+      },
+      {
+        "id": "professional", "name": "Yrkesord", "en": "Professional",
+        "children": [
+          { "id": "cirkular-ekonomi", "name": "Cirkulär ekonomi", "short": "Cirkulärt", "en": "Circular economy" },
+          { "id": "urban-metabolism", "name": "Urban metabolism", "short": "Urban metab.", "en": "Urban metabolism" },
+          { "id": "hallbarhet", "name": "Hållbarhet", "en": "Sustainability" },
+          { "id": "forskning", "name": "Forskningsspråk", "short": "Forskning", "en": "Research vocabulary" }
+        ]
+      }
+    ]
+  }
+}

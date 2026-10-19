@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "category": "core",
+  "cards": [
+    { "id": "adj-angelagen", "theme": "adjektiv", "sv": "angelägen", "pos": "adjektiv", "article": null, "forms": "angelägen, angeläget, angelägna", "example": "Det är angeläget att vi löser problemet före sommaren.", "en": "urgent, important; eager" },
+    { "id": "adj-betydande", "theme": "adjektiv", "sv": "betydande", "pos": "adjektiv", "article": null, "forms": "oböjligt", "example": "Projektet fick ett betydande stöd från kommunen.", "en": "considerable, significant" },
+    { "id": "adj-patanglig", "theme": "adjektiv", "sv": "påtaglig", "pos": "adjektiv", "article": null, "forms": "påtaglig, påtagligt, påtagliga", "example": "Förändringen i stadsbilden är påtaglig.", "en": "tangible, noticeable" },
+    { "id": "adj-omfattande", "theme": "adjektiv", "sv": "omfattande", "pos": "adjektiv", "article": null, "forms": "oböjligt", "example": "Utredningen är mycket omfattande.", "en": "extensive, comprehensive" },
+    { "id": "adj-noggrann", "theme": "adjektiv", "sv": "noggrann", "pos": "adjektiv", "article": null, "forms": "noggrann, noggrant, noggranna", "example": "Hon är noggrann med detaljerna.", "en": "careful, thorough" },
+    { "id": "adj-sjalvklar", "theme": "adjektiv", "sv": "självklar", "pos": "adjektiv", "article": null, "forms": "självklar, självklart, självklara", "example": "Det är inte självklart att alla har tillgång till internet.", "en": "obvious, self-evident" },
+    { "id": "adj-tveksam", "theme": "adjektiv", "sv": "tveksam", "pos": "adjektiv", "article": null, "forms": "tveksam, tveksamt, tveksamma", "example": "Jag är tveksam till förslaget.", "en": "doubtful, hesitant" },
+    { "id": "adj-benagen", "theme": "adjektiv", "sv": "benägen", "pos": "adjektiv", "article": null, "forms": "benägen, benäget, benägna", "example": "Unga är mer benägna att byta jobb.", "en": "inclined, prone" },
+
+    { "id": "prep-i-tid", "theme": "prepositioner", "sv": "i (+ tidslängd)", "pos": "preposition", "article": null, "forms": "i två år, i en vecka", "example": "Jag har bott i Malmö i tre år.", "en": "for (duration)" },
+    { "id": "prep-pa-tid", "theme": "prepositioner", "sv": "på (+ tidslängd)", "pos": "preposition", "article": null, "forms": "på två timmar; på måndag", "example": "Hon läste boken på två dagar.", "en": "in (time taken); on (weekday)" },
+    { "id": "prep-om-tid", "theme": "prepositioner", "sv": "om (+ framtid)", "pos": "preposition", "article": null, "forms": "om en vecka, om tio minuter", "example": "Tåget går om tio minuter.", "en": "in (future time)" },
+    { "id": "prep-for-sedan", "theme": "prepositioner", "sv": "för … sedan", "pos": "preposition", "article": null, "forms": "för tre år sedan", "example": "Vi flyttade hit för fem år sedan.", "en": "… ago" },
+    { "id": "prep-under", "theme": "prepositioner", "sv": "under", "pos": "preposition", "article": null, "forms": "under kriget, under bordet", "example": "Under sommaren arbetade han på ett café.", "en": "during; under" },
+    { "id": "prep-infor", "theme": "prepositioner", "sv": "inför", "pos": "preposition", "article": null, "forms": "inför provet, inför publik", "example": "Jag är nervös inför provet.", "en": "ahead of, before; in front of" },
+    { "id": "prep-hos", "theme": "prepositioner", "sv": "hos", "pos": "preposition", "article": null, "forms": "hos läkaren, hos mina föräldrar", "example": "Jag har en tid hos tandläkaren i morgon.", "en": "at (someone's place)" },
+    { "id": "prep-langs", "theme": "prepositioner", "sv": "längs", "pos": "preposition", "article": null, "forms": "längs ån, längs vägen", "example": "Vi promenerade längs stranden.", "en": "along" },
+
+    { "id": "konj-eftersom", "theme": "konjunktioner", "sv": "eftersom", "pos": "subjunktion", "article": null, "forms": "bisatsordföljd: eftersom jag inte …", "example": "Jag stannade hemma eftersom jag var sjuk.", "en": "because, since" },
+    { "id": "konj-medan", "theme": "konjunktioner", "sv": "medan", "pos": "subjunktion", "article": null, "forms": "bisatsordföljd", "example": "Han lagade mat medan barnen lekte.", "en": "while" },
+    { "id": "konj-trots-att", "theme": "konjunktioner", "sv": "trots att", "pos": "subjunktion", "article": null, "forms": "bisatsordföljd", "example": "Trots att det regnade gick vi ut.", "en": "although, despite the fact that" },
+    { "id": "konj-innan", "theme": "konjunktioner", "sv": "innan", "pos": "subjunktion", "article": null, "forms": "bisatsordföljd", "example": "Ring mig innan du går.", "en": "before" },
+    { "id": "konj-sa-att", "theme": "konjunktioner", "sv": "så att", "pos": "subjunktion", "article": null, "forms": "bisatsordföljd", "example": "Hon talade högt så att alla skulle höra.", "en": "so that" },
+    { "id": "konj-ifall", "theme": "konjunktioner", "sv": "ifall", "pos": "subjunktion", "article": null, "forms": "bisatsordföljd", "example": "Ta med paraply ifall det börjar regna.", "en": "in case, if" },
+    { "id": "konj-utan", "theme": "konjunktioner", "sv": "utan", "pos": "konjunktion", "article": null, "forms": "efter nekande sats", "example": "Han är inte lat utan trött.", "en": "but (rather) – after a negation" },
+    { "id": "konj-samt", "theme": "konjunktioner", "sv": "samt", "pos": "konjunktion", "article": null, "forms": "formellt", "example": "Ta med pass samt två fotografier.", "en": "and, as well as (formal)" },
+
+    { "id": "pv-ta-upp", "theme": "partikelverb", "sv": "ta upp", "pos": "partikelverb", "article": null, "forms": "tar upp, tog upp, tagit upp", "example": "Hon tog upp frågan på mötet.", "en": "raise (an issue); pick up" },
+    { "id": "pv-komma-fram-till", "theme": "partikelverb", "sv": "komma fram till", "pos": "partikelverb", "article": null, "forms": "kommer fram till, kom fram till, kommit fram till", "example": "Gruppen kom fram till en gemensam lösning.", "en": "reach, arrive at (a conclusion)" },
+    { "id": "pv-ga-ut-pa", "theme": "partikelverb", "sv": "gå ut på", "pos": "partikelverb", "article": null, "forms": "går ut på, gick ut på, gått ut på", "example": "Jobbet går ut på att hjälpa nyanlända.", "en": "be about, consist in" },
+    { "id": "pv-halla-med", "theme": "partikelverb", "sv": "hålla med", "pos": "partikelverb", "article": null, "forms": "håller med, höll med, hållit med", "example": "Jag håller med dig om det.", "en": "agree" },
+    { "id": "pv-sta-ut-med", "theme": "partikelverb", "sv": "stå ut med", "pos": "partikelverb", "article": null, "forms": "står ut med, stod ut med, stått ut med", "example": "Jag står inte ut med bullret längre.", "en": "put up with, stand" },
+    { "id": "pv-se-till", "theme": "partikelverb", "sv": "se till", "pos": "partikelverb", "article": null, "forms": "ser till, såg till, sett till", "example": "Se till att dörren är låst.", "en": "make sure; look after" },
+    { "id": "pv-lagga-ner", "theme": "partikelverb", "sv": "lägga ner", "pos": "partikelverb", "article": null, "forms": "lägger ner, la(de) ner, lagt ner", "example": "Fabriken lades ner förra året. Hon har lagt ner mycket tid på projektet.", "en": "shut down; put in (time, effort)" },
+    { "id": "pv-kanna-igen", "theme": "partikelverb", "sv": "känna igen", "pos": "partikelverb", "article": null, "forms": "känner igen, kände igen, känt igen", "example": "Jag kände inte igen henne med kort hår.", "en": "recognise" },
+
+    { "id": "fras-det-beror-pa", "theme": "fraser", "sv": "det beror på", "pos": "fras", "article": null, "forms": null, "example": "– Kommer du i kväll? – Det beror på vädret.", "en": "it depends" },
+    { "id": "fras-a-ena-sidan", "theme": "fraser", "sv": "å ena sidan … å andra sidan", "pos": "fras", "article": null, "forms": null, "example": "Å ena sidan är det dyrt, å andra sidan håller det länge.", "en": "on the one hand … on the other hand" },
+    { "id": "fras-ta-hansyn-till", "theme": "fraser", "sv": "ta hänsyn till", "pos": "fras", "article": null, "forms": "tar, tog, tagit hänsyn till", "example": "Vi måste ta hänsyn till grannarna.", "en": "take into account, show consideration for" },
+    { "id": "fras-med-tanke-pa", "theme": "fraser", "sv": "med tanke på", "pos": "fras", "article": null, "forms": null, "example": "Med tanke på priset är kvaliteten bra.", "en": "considering, in view of" },
+    { "id": "fras-i-och-for-sig", "theme": "fraser", "sv": "i och för sig", "pos": "fras", "article": null, "forms": null, "example": "Det är i och för sig sant, men …", "en": "admittedly, in itself" },
+    { "id": "fras-spelar-ingen-roll", "theme": "fraser", "sv": "det spelar ingen roll", "pos": "fras", "article": null, "forms": null, "example": "Det spelar ingen roll om du kommer sent.", "en": "it doesn't matter" },
+    { "id": "fras-ingen-ko-pa-isen", "theme": "fraser", "sv": "ingen ko på isen", "pos": "idiom", "article": null, "forms": null, "example": "Vi har gott om tid, så ingen ko på isen.", "en": "no need to worry (lit. no cow on the ice)" },
+    { "id": "fras-hur-som-helst", "theme": "fraser", "sv": "hur som helst", "pos": "fras", "article": null, "forms": null, "example": "Hur som helst – vi ses i morgon!", "en": "anyway; any way" }
+  ]
+}

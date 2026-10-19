@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "prompts": [
+    {
+      "id": "brev-helg",
+      "title": "Brev till en vän om din sommar",
+      "genre": "Personligt brev",
+      "level": "B1",
+      "register": "informal",
+      "words": [150, 250],
+      "minutes": 30,
+      "exams": ["c1", "citizenship"],
+      "instructions": "Skriv ett brev eller mejl till en vän som bor i ett annat land. Berätta om din sommar i Sverige.",
+      "points": ["Vad gjorde du och med vem?", "Beskriv en upplevelse som du minns särskilt väl.", "Vad var annorlunda jämfört med en sommar i ditt hemland?", "Föreslå att ni ses och ge ett konkret förslag."],
+      "checklist": ["Hälsning och avslutning passar en vän (Hej …! / Kram, …)", "Alla fyra punkterna är med", "Preteritum används för det som hänt", "Minst tre sambandsord (sedan, eftersom, men, dessutom …)", "Texten är indelad i stycken"],
+      "tip": "Variera meningsbörjan: ”I juli …”, ”Efter det …”, ”Det bästa var …” – och tänk på omvänd ordföljd."
+    },
+    {
+      "id": "insandare-gemenskap",
+      "title": "Insändare: hur kan nya invånare känna sig mer delaktiga?",
+      "genre": "Insändare",
+      "level": "B2",
+      "register": "formal",
+      "words": [250, 400],
+      "minutes": 45,
+      "exams": ["c1", "sva3", "tisus"],
+      "instructions": "Skriv en insändare till lokaltidningen. Ta ställning i frågan om hur invandrare och andra nya invånare kan känna sig mer delaktiga i det lokala livet där du bor.",
+      "points": ["Inled med en tydlig tes.", "Ge minst två argument med konkreta exempel (t.ex. föreningsliv, bibliotek, idrott, språkcaféer, grannskap).", "Bemöt ett möjligt motargument.", "Avsluta med en uppmaning till läsarna eller kommunen."],
+      "checklist": ["Rubrik som väcker intresse", "Tes i första stycket", "Två argument med exempel", "Motargument som bemöts", "Avslutning med uppmaning", "Signatur (namn eller signatur som ”Ny i Västerby”)", "Sambandsord för argumentation: för det första, dessutom, å andra sidan, därför, sammanfattningsvis"],
+      "tip": "En insändare är kort och slagkraftig. Skriv i första person, men håll en saklig ton."
+    },
+    {
+      "id": "klagomal-mejl",
+      "title": "Formellt klagomål till ett företag",
+      "genre": "Formellt mejl",
+      "level": "B2",
+      "register": "formal",
+      "words": [180, 280],
+      "minutes": 30,
+      "exams": ["c1", "sva3", "citizenship"],
+      "instructions": "Du har beställt en tvättmaskin på nätet. Den levererades tio dagar för sent och har en stor buckla. Kundtjänst har inte svarat på dina samtal. Skriv ett formellt klagomål.",
+      "points": ["Beskriv vad som har hänt, med datum och ordernummer.", "Förklara vilka problem det har orsakat dig.", "Hänvisa till dina rättigheter som konsument.", "Kräv en konkret lösning och ange en tidsgräns."],
+      "checklist": ["Ämnesrad som sammanfattar ärendet", "Formell hälsning (Hej / Till kundtjänst) och avslutning (Med vänliga hälsningar)", "Fakta: datum, ordernummer, vad som är fel", "Tydligt krav och tidsgräns", "Saklig ton, inga överdrifter", "Inga förkortningar eller slang"],
+      "tip": "Användbara fraser: ”Jag vill härmed reklamera …”, ”Enligt konsumentköplagen …”, ”Jag förväntar mig ett svar senast …”."
+    },
+    {
+      "id": "argumenterande-bilfritt",
+      "title": "Argumenterande text: bilfria stadskärnor",
+      "genre": "Argumenterande text",
+      "level": "C1",
+      "register": "formal",
+      "words": [400, 600],
+      "minutes": 60,
+      "exams": ["c1", "sva3", "tisus"],
+      "instructions": "Allt fler städer diskuterar att stänga stadskärnan för biltrafik. Skriv en argumenterande text där du tar ställning för eller emot förslaget.",
+      "points": ["Inledning som ger bakgrund och presenterar din tes.", "Minst tre argument, gärna från olika perspektiv (miljö, ekonomi, tillgänglighet, folkhälsa).", "Ett motargument som du bemöter nyanserat.", "Avslutning som knyter ihop texten utan att upprepa allt."],
+      "checklist": ["Tydlig tes", "Varje argument i ett eget stycke med inledande kärnmening", "Motargument som bemöts", "Varierade sambandsord (följaktligen, emellertid, däremot, i synnerhet …)", "Nominalstil där det passar (t.ex. ”en minskning av trafiken”)", "Inga talspråksuttryck", "Avslutning som lyfter perspektivet"],
+      "tip": "Tänk på mottagaren: en bildad allmänhet. Belägg gärna argumenten med exempel från verkliga städer, men hitta inte på exakta siffror."
+    },
+    {
+      "id": "process-ansokan",
+      "title": "Beskriv en process: att söka medborgarskap",
+      "genre": "Beskrivande/utredande text",
+      "level": "B2",
+      "register": "formal",
+      "words": [200, 350],
+      "minutes": 40,
+      "exams": ["c1", "sva3", "tisus", "citizenship"],
+      "instructions": "Beskriv steg för steg hur en process går till, för en läsare som inte känner till den. Välj till exempel hur man söker svenskt medborgarskap, hur man återvinner sopor i ditt hushåll eller hur man söker ett jobb i Sverige.",
+      "points": ["Presentera processen och vem den gäller.", "Beskriv stegen i rätt ordning.", "Förklara vad som kan gå fel och hur man undviker det.", "Avsluta med ett råd eller en sammanfattning."],
+      "checklist": ["Tydlig inledning om vad texten handlar om", "Ordningsord: först, därefter, när … är klart, slutligen", "Passiv form där det passar (ansökan skickas, sopor sorteras)", "Neutral, informerande ton", "Varje steg i en egen mening eller ett eget stycke"],
+      "tip": "Kontrollera fakta om du beskriver en officiell process – reglerna för medborgarskap ändrades 2026."
+    }
+  ]
+}
